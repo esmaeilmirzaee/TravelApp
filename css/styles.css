@@ -203,4 +203,12 @@ nav {
     .info {
         grid-column: 2 / span 6;
     }
+
+    .icons {
+        flex-direction: column;
+    }
+
+    .icon {
+        margin-bottom: 20px;
+    }
 }
